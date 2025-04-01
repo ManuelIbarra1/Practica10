@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "244246027322",
+    "project_id": "ejemplologin-bd938",
+    "storage_bucket": "ejemplologin-bd938.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244246027322:android:b0f668b386556256bba903",
+        "android_client_info": {
+          "package_name": "mx.edu.itson.potros.practica10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATfZuIed0mOEemwRtwvTXJtuaG162zTPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
