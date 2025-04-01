@@ -41,6 +41,11 @@ class LoginActivity : AppCompatActivity() {
                 login(email.text.toString(), password.text.toString())
             }
         }
+
+        buttonRegister.setOnClickListener {
+            val intent = Intent(this, SignInActivity::class.java)
+            startActivity(intent)
+        }
     }
 
     fun goToMain(user: FirebaseUser) {
